@@ -660,7 +660,7 @@ ul.row {
 }
 
 .header {
-  padding: 40rem 0 0;
+  padding: var(--header-padding);
 }
 
 .header-logo {
